@@ -1,0 +1,12 @@
+/CM 0-0
+/CheatMode 0-0  
+/Cheatmode 0-0
+/Cheat Mode 0-0
+/cheat mode 0-0
+/cm 0-0
+/CM 1-1
+/CheatMode 1-1  
+/Cheatmode 1-1
+/Cheat Mode 1-1
+/cheat mode 1-1
+/cm 1-1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c0ce8fc7b469c14dbab93dca4f6d079
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChatPanel: {instanceID: 0}
+  - ScrollViewObject: {instanceID: 0}
+  - TextObject: {fileID: 1144975968330816234, guid: d8dfc87137e9fad41a595116775c3d75,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
